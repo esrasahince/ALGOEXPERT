@@ -10,4 +10,4 @@ def twoNumberSum(array, targetSum):
         else:
             beginptr+=1;
     return []   
-    pass
+  
